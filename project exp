@@ -2,3 +2,4 @@ PROJECT
 - Designed a fully functional ride booking application using the MERN stack .
 - Managed and Stoed data in MongoDB .
 - Integrated features such as real-time ride tracking ,payment processing and Rating system . 
+- concepts like service communication,API gateways,load balancing,and database management are used in this project .
